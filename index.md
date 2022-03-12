@@ -10,7 +10,7 @@ $$
 H_{N} = \sum_{n,n'=0}^{N-1}\langle n'|T+V|n\rangle a^{\dagger}_{n'}a_{n}.
 $$
 
-Here, the operator $$a_{n}^{\dagger}$$ and $$a_{n}$$ create and annihilate a deuteron in the harmonic-oscillator *s*-wave state $$|n\rangle$$. We map these operators onto qubits using Jordan-Wigner transformation. We work with N=2. So the Hamiltonian written as 
+Here, the operator $$a_{n}^{\dagger}$$ and $$a_{n}$$ create and annihilate a deuteron in the harmonic oscillator *s* wave state. We map these operators onto qubits using Jordan Wigner transformation. We work with N=2. So the Hamiltonian written as 
 
 $$
 H_{2} = 5.906709I + 0.218291Z_0 - 6.125Z_1 - 2.143304(X_0X_1 + Y_0Y_1)
