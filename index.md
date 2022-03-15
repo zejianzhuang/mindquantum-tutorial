@@ -1,7 +1,4 @@
-<font size=4 face="ITC Legacy Sans Std Book">
-    
 # Ground state energy for deuteron using VQE
-
 ## Introduction
 In this tutorial, I will use *mindquantum* to get the ground state energy of deuteron. I will base this implementation off the paper [[1]](#1). In this paper, the authors performed the quantum circuit on IBM QX5 and Rigetti 19Q quantum chips to get the ground state energy of deuteron.
 
@@ -93,5 +90,5 @@ The ground state energy in this tutorial is -1.7492 MeV, which is very close to 
 # Reference
 <a id="1">[1]</a>
 Dumitrescu E F, McCaskey A J, Hagen G, et al. [*Cloud quantum computing of an atomic nucleus*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.210501)[J]. Physical review letters, 2018, 120(21): 210501.
-</font>
+
 {% include lib/mathjax.html %}
