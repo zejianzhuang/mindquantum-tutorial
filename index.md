@@ -3,8 +3,6 @@
 # Ground state energy for deuteron using VQE
 
 ## Introduction
-mindquantum VQE算法教程。在本教程中，没有使用mindspore来搭建神经网络来训练量子线路，而是采用scipy来优化量子线路中的参数。对于不熟悉mindspore的学习者来说，能够更加容易地入门mindquantum。
-
 In this tutorial, I will use *mindquantum* to get the ground state energy of deuteron. I will base this implementation off the paper [[1]](#1). In this paper, the authors performed the quantum circuit on IBM QX5 and Rigetti 19Q quantum chips to get the ground state energy of deuteron.
 
 The Hamiltonian for deuteron is
