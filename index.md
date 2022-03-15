@@ -95,5 +95,11 @@ The ground state energy in this tutorial is -1.7492 MeV, which is very close to 
 # Reference
 <a id="1">[1]</a>
 Dumitrescu E F, McCaskey A J, Hagen G, et al. [*Cloud quantum computing of an atomic nucleus*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.210501)[J]. Physical review letters, 2018, 120(21): 210501.
+<font size=4 face="ITC Legacy Sans Std Book">
+    
+    
+We see that the ground state energy solved by diagonalization is very close to the solution from vqe.
 
+    
+</font>
 {% include lib/mathjax.html %}
