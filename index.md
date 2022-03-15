@@ -1,7 +1,7 @@
 # Ground state energy for deuteron using VQE
 # Table of Contents
 **[Introduction](#Introduction)**<br>
-**[Perform the quantum simulation with *Mindquantum*](Perform-the-quantum-simulation-with-Mindquantum)**<br>
+**[Perform the quantum simulation with *Mindquantum*](#Perform-the-quantum-simulation-with-Mindquantum)**<br>
 ## Introduction
 mindquantum VQE算法教程。在本教程中，没有使用mindspore来搭建神经网络来训练量子线路，而是采用scipy来优化量子线路中的参数。对于不熟悉mindspore的学习者来说，能够更加容易地入门mindquantum。
 
