@@ -1,7 +1,6 @@
+<font size=4 face="ITC Legacy Sans Std Book">
 # Ground state energy for deuteron using VQE
-# Table of Contents
-**[Introduction](#Introduction)**<br>
-**[Perform the quantum simulation with *Mindquantum*](#Perform-the-quantum-simulation-with-Mindquantum)**<br>
+
 ## Introduction
 mindquantum VQE算法教程。在本教程中，没有使用mindspore来搭建神经网络来训练量子线路，而是采用scipy来优化量子线路中的参数。对于不熟悉mindspore的学习者来说，能够更加容易地入门mindquantum。
 
@@ -95,5 +94,5 @@ The ground state energy in this tutorial is -1.7492 MeV, which is very close to 
 # Reference
 <a id="1">[1]</a>
 Dumitrescu E F, McCaskey A J, Hagen G, et al. [*Cloud quantum computing of an atomic nucleus*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.210501)[J]. Physical review letters, 2018, 120(21): 210501.
-
+</font>
 {% include lib/mathjax.html %}
